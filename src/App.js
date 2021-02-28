@@ -47,6 +47,7 @@ const App = () => {
         <p className={day === 4 ? 'color' : ''}>THU</p>
         <p className={day === 5 ? 'color' : ''}>FRI</p>
         <p className={day === 6 ? 'color' : ''}>SAT</p>
+       <button>asaoia</button>
       </DaysOfWeek>
     </>
   );
