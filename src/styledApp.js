@@ -284,6 +284,10 @@ export const DaysOfWeek = styled.div`
   padding: 0 2.5%;
   align-items: center;
 
+  @media(max-width: 600px){
+      height: 50px;
+    }
+
   p{
     font-size: 2rem;
     color: #1C1C1C ;
